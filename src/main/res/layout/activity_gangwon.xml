@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/gangwonImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minWidth="400dp"
+        android:minHeight="700dp"
+        android:maxWidth="400dp"
+        android:maxHeight="700dp"
+        android:src="@drawable/gangwon_do"/>
+</RelativeLayout>
