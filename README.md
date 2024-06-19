@@ -15,3 +15,6 @@ My Own Map App은 사용자가 강원도의 여행한 지역을 추적하고, �
 ### 진행 상황 표시
 ![image](https://github.com/SunBin88/my_own_map/assets/104079824/894fcd13-9444-41df-98b3-30ce101625e3)
 
+
+### 소개 영상 링크
+https://youtu.be/QO3YKx2aeKM
